@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+body {  
+  background: #eceff6;
+  color: #38454f;
+}
+
+h6, p, span {  
+  color: #38454f;
+}
+
+.container {
+  background: #fff;
+}
+
+.header {
+  background: #48a0dc;
+  line-height: 32px;
+
+  span {
+    color: #fff;
+    font-weight: 800;
+    line-height: 32px;
+  }
+}
+
+.footer {
+  background: #d5dbe3;
+}
