@@ -1,0 +1,26 @@
+/* line 3, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+body {
+  background: #eceff6;
+  color: #38454f; }
+
+/* line 8, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+h6, p, span {
+  color: #38454f; }
+
+/* line 12, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+.container {
+  background: #fff; }
+
+/* line 16, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+.header {
+  background: #48a0dc;
+  line-height: 32px; }
+  /* line 20, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+  .header span {
+    color: #fff;
+    font-weight: 800;
+    line-height: 32px; }
+
+/* line 27, C:/sitios/Transactional/source/stylesheets/all.css.scss */
+.footer {
+  background: #d5dbe3; }
